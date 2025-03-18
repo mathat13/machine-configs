@@ -11,4 +11,4 @@
 
 #======================= Share Definitions =======================
 
-/mnt/mediadb 192.168.1.0/24(rw,sync,fsid=1,all_squash,anonuid=1000,anongid=1000)
+/exports 192.168.1.0/24(rw,sync,fsid=1,all_squash,anonuid=1000,anongid=1000)
